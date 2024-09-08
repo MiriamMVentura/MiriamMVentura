@@ -2,7 +2,6 @@
 **I'm a Front-End Developer from Mexico**
 
 **What I'm doing**
-- 👨‍💻 I'm currently learning programming at a wonderful community called Laboratoria 💛
 - 🌱 I'm learning about UI development, ethical design for products, and customer-centricity
 - 🤝 I like to collaborate in projects of ecology and environmental issues
 - 🔭 I'm currently working on learning JavaScript libraries and develop skills like agile methodologies, collaborative work, and practice my English.
